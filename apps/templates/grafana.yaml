@@ -17,7 +17,7 @@ spec:
         admin.userKey: "admin"
         admin.passwordKey: "password"
     repoURL: https://github.com/grafana/helm-charts
-    targetRevision: HEAD
+    targetRevision: 6.13.6
   syncPolicy:
     automated:
       prune: true
